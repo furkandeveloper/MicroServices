@@ -1,0 +1,16 @@
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.deps.json
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.runtimeconfig.json
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.runtimeconfig.dev.json
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.dll
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\bin\Debug\netcoreapp2.2\ProductApi.pdb
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.csprojAssemblyReference.cache
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorAssemblyInfo.cache
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorAssemblyInfo.cs
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.AssemblyInfoInputs.cache
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.AssemblyInfo.cs
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.RazorTargetAssemblyInfo.cache
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.dll
+D:\GithubProject\Private\MicroServices\MicroServices\ProductApi\obj\Debug\netcoreapp2.2\ProductApi.pdb

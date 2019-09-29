@@ -1,0 +1,16 @@
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.deps.json
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.runtimeconfig.json
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.runtimeconfig.dev.json
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.dll
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\bin\Debug\netcoreapp2.2\OrderApi.pdb
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.csprojAssemblyReference.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorAssemblyInfo.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorAssemblyInfo.cs
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.AssemblyInfoInputs.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.AssemblyInfo.cs
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.RazorTargetAssemblyInfo.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.dll
+D:\GithubProject\Private\MicroServices\MicroServices\OrderApi\obj\Debug\netcoreapp2.2\OrderApi.pdb

@@ -1,0 +1,17 @@
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\appsettings.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\OcelotGateWay.deps.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\OcelotGateWay.runtimeconfig.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\OcelotGateWay.runtimeconfig.dev.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\OcelotGateWay.dll
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.csprojAssemblyReference.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.RazorAssemblyInfo.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.RazorAssemblyInfo.cs
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.AssemblyInfoInputs.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.AssemblyInfo.cs
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.RazorTargetAssemblyInfo.cache
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\ocelot.json
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\bin\Debug\netcoreapp2.2\OcelotGateWay.pdb
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.dll
+D:\GithubProject\Private\MicroServices\MicroServices\OcelotGateWay\obj\Debug\netcoreapp2.2\OcelotGateWay.pdb
